@@ -15,7 +15,7 @@ Trước tiên, bạn cần cài đặt Node.js và NPM (Node Package Manager) n
 
 ## Bước 2: Clone repository từ GitHub
 
-[git clone https://github.com/TranHuyTu/Front-End-Website-TMDT.git]
+[git clone ](https://github.com/TranHuyTu/Front-End-Website-TMDT.git)
 
 ## Bước 3: Di chuyển vào thư mục dự án
 
