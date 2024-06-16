@@ -23,7 +23,7 @@ cd Front-End-Website-TMDT
 
 ## Bước 4: Chạy dự án:
 
-npm install
+npm install /n
 npm start
 
  
